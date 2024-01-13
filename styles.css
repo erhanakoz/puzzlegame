@@ -1,0 +1,10 @@
+#game-container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  img {
+    width: 100px; /* Adjust the size as needed */
+    margin: 5px;
+  }
+  
